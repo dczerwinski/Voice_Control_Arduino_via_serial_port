@@ -2,3 +2,5 @@
 
 Windows form app. Using for voice control arduino via usb serial port. 
 You can easly program your own voice commmand, ten app if the application recognizes command, will send it to serial port. 
+
+//Only Polish language available temporarily
